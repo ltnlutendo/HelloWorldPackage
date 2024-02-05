@@ -1,6 +1,6 @@
-# MyPackage
+# Perf
 
-MyPackage is a Python package that provides three functions for basic interactions.
+perf is a Python package that provides three functions for basic interactions.
 
 ## Installation
 
